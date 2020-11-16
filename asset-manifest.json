@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chatrum/static/css/main.ebb9c479.chunk.css",
+    "main.js": "/chatrum/static/js/main.9510cb7f.chunk.js",
+    "main.js.map": "/chatrum/static/js/main.9510cb7f.chunk.js.map",
+    "runtime-main.js": "/chatrum/static/js/runtime-main.fe9cd071.js",
+    "runtime-main.js.map": "/chatrum/static/js/runtime-main.fe9cd071.js.map",
+    "static/js/2.59255022.chunk.js": "/chatrum/static/js/2.59255022.chunk.js",
+    "static/js/2.59255022.chunk.js.map": "/chatrum/static/js/2.59255022.chunk.js.map",
+    "index.html": "/chatrum/index.html",
+    "precache-manifest.af076735ddba31788503af2865c9f1a3.js": "/chatrum/precache-manifest.af076735ddba31788503af2865c9f1a3.js",
+    "service-worker.js": "/chatrum/service-worker.js",
+    "static/css/main.ebb9c479.chunk.css.map": "/chatrum/static/css/main.ebb9c479.chunk.css.map",
+    "static/js/2.59255022.chunk.js.LICENSE.txt": "/chatrum/static/js/2.59255022.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe9cd071.js",
+    "static/js/2.59255022.chunk.js",
+    "static/css/main.ebb9c479.chunk.css",
+    "static/js/main.9510cb7f.chunk.js"
+  ]
+}
