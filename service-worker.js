@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chatrum/precache-manifest.af076735ddba31788503af2865c9f1a3.js"
+  "/chatrum/precache-manifest.b3012bed2d904a919c0555749b11f2fe.js"
 );
 
 self.addEventListener('message', (event) => {
