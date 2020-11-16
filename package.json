@@ -2,7 +2,7 @@
   "name": "chatrum",
   "version": "0.1.1",
   "private": true,
-  "homepage": "http://dannykhoai.github.io/chatrum",
+  "homepage": "https://dannykhoai.github.io/chatrum",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
